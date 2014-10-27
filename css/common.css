@@ -118,7 +118,7 @@ header {
 }
 
 .logo {
-    background: url("../img/logo.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    background: url("../img/logo/logo.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
     border: 0 none;
     float: left;
     height: 43px;
